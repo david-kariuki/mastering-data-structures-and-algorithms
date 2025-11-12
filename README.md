@@ -1,4 +1,3 @@
-# mastering-data-structures-and-algorithms
 
 ***
 <br>
